@@ -1,0 +1,5 @@
+This script can help you to simplify pLink-SS's report file, and give you 
+a brief results. 
+
+please copy this file to pLink work directory where the "xx.plink" file exit. 
+then open the "Command Prompt" and type in "python SS_sim.py" and "Enter".
